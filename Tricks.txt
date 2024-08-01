@@ -1,0 +1,35 @@
+=COUNTIFS(data1!$H$1,data1!$H$1)>0
+
+
+=COUNTIFS(data1!$H$1,data1!$H$1,)>0
+
+ninite.com
+
+remove virus from window
+
+win+r , type MRT and follow instruction
+
+C:\Windows\System32>sfc /scannow
+
+Optimize PC performance
+------------------------
+
+win + R MSCONFIG, BOOT , ADVACNCED , NUMBER OF PROCESSOR 
+
+check for updates and install
+------------------------------- 
+
+C:\Windows\System32>winget upgrade
+
+C:\Windows\System32>winget upgrade --all
+ 
+unhacke a pc
+-------------
+win+r netplwiz 
+
+
+provebs 21 vs 9 zvirinani kugara pamusoro Pemba panekugara nemukadzi anokakavara
+
+
+https://www.facebook.com/reel/1384219172281320
+
